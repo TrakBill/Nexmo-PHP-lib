@@ -5,8 +5,8 @@
     "homepage": "https://github.com/prawnsalad/Nexmo-PHP-lib",
     "license": "MIT",
     "autoload": {
-        "psr-4": {
-            "PrawnSalad\\Nexmo\\": ["src"]
+		"psr-0": {
+			"Nexmo": "./"
         }
     }
 }
